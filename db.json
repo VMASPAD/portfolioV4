@@ -1,0 +1,194 @@
+{"projectsData": [
+  {
+    "id": 1,
+    "title": "Proyect Hub",
+    "description": "Proyecto de landing page con librerias de estilos, es una pagina estilo de presentacion de productos",
+    "img": "./src/assets/proyects/hub1.png",
+    "web":"https://portfoliotavm.me/hub/index-adaptive-colors.html",
+    "type": "FrontEnd"
+  },
+  {
+    "id": 2,
+    "title": "Hestia",
+    "description": "El uso adecuado adecuado de esta pagina seria para vender de forma fácil o puedan ver tus productos con mas información",
+    "img": "./src/assets/proyects/hestia.jpg",
+    "web":"https://hestiarrll.com/",
+    "type": "Freelance"
+  },
+  {
+    "id": 3,
+    "title": "T&V",
+    "description": "El uso adecuado adecuado de esta pagina seria para promocionar una pagina de un token o el de un juego",
+    "img": "./src/assets/proyects/tv.png",
+    "web":"https://vmaspad.github.io/backup/",
+    "type": "FrontEnd"
+  },
+  {
+    "id": 4,
+    "title": "Pagina Para ventas de Materiales",
+    "description": "La función de esta pagina, es de vender de forma rápida y dar una demostración de los productos que quieran vender (no incluye forma de pago), su función es mas que nada para brindar información sobre lo que quieran ver",
+    "img": "./src/assets/proyects/motors.png",
+    "web":"https://motorsb.000webhostapp.com/",
+    "type": "Desarrollo Web"
+  },
+  {
+    "id": 5,
+    "title": "Audio a Texto",
+    "description": "Este es un software de gratuito y simple en el que podras convertir un audio a texto, facilmente. Solo consta de seleccionar una calidad de texto y el archivo a convertir",
+    "img": "./src/assets/proyects/audiototext.png",
+    "web":"https://github.com/VMASPAD/AudioToText",
+    "url":"https://portfoliotavm.me/src/apps/AudioToText.zip",
+    "content":"A veces necesitas convertir el audio de un video de una clase o de una canción a un archivo de texto para que puedas resumirlo o utilizarlo para otras cosas?. Con este programa podras obtener el texto en un 99% de coincidencia.",
+    "type": "Python",
+    "size": "5xl"
+  },
+  {
+    "id": 6,
+    "title": "YoutAppV2",
+    "description": "Quieres descargar videos de youtube sin virus? Con esta app podras descargar videos de hasta 1080p y descargar el audio por separado en su mayor calidad, ademas podras fusionar archivos mp3 y mp4.",
+    "img": "./src/assets/proyects/YoutAppV2.png",
+    "web":"https://github.com/VMASPAD/youtappv2",
+    "url":"https://portfoliotavm.me/src/apps/YoutAppV2-Windows-2.0.2-Setup.exe",
+    "content":"Quieres descargar videos de youtube sin virus? Con esta app podras descargar videos de hasta 1080p y descargar el audio por separado en su mayor calidad, ademas podras fusionar archivos mp3 y mp4.",
+    "type": "JavaScript",
+    "size": "5xl"
+  },
+  {
+    "id": 7,
+    "title": "PortFolio Mariela Camacci",
+    "description": "Mi propósito profesional es acompañar a las personas que son parte de mi camino, a potenciar sus habilidades. Dejar mi huella en cada espacio y organización que soy parte",
+    "img": "./src/assets/proyects/pmc.png",
+    "web":"https://marielacamacci.com/",
+    "type": "Freelance"
+  },
+  {
+    "id": 8,
+    "title": "Disruptronix",
+    "description": "Soy Jimena!, me considero una agilista genuina porque a mí la agilidad me ha hecho aprender, doler, doler, doler, entender, fallar, volver a intentar, comparar, acompañar.",
+    "img": "./src/assets/proyects/disruptronix.png",
+    "web":"https://disruptronix.com/",
+    "type": "Freelance Wordpress"
+  },
+  {
+    "id": 9,
+    "title": "Proyecto ConvertV2",
+    "description": "Soy Jimena!, me considero una agilista genuina porque a mí la agilidad me ha hecho aprender, doler, doler, doler, entender, fallar, volver a intentar, comparar, acompañar.",
+    "img": "./src/assets/proyects/ConvertV2.png",
+    "web":"",
+    "type": "Freelance"
+  },
+  {
+    "id": 10,
+    "title": "Proyecto MarkReact News",
+    "description": "Una nueva forma de crear articulos con MarkDown y React (v18). Simplificando la creacion de articulos con estilos predefinidos y componentes ya creados. Incluye TailwindCss y Daisy UI para estilos modernos y personalizados.",
+    "img": "./src/assets/proyects/componentsrm.png",
+    "web":"http://componentsrm.portfoliotavm.me/",
+    "type": "JavaScript"
+  },
+  {
+    "id": 11,
+    "title": "Proyecto IAcode",
+    "description": "Una interfaz para manejar una IA que genera codigo basico para tus preguntas faciles, es una version para enviar y recibir los datos de la IA de forma mucho mas facil. Mas informacion en la pagina de github.",
+    "img": "./src/assets/proyects/Proyecto IAcode.png",
+    "web":"https://github.com/VMASPAD/CodeReplit",
+    "type": "Python"
+  },
+  {
+    "id": 12,
+    "title": "Proyecto IA Detección (Objetos)",
+    "description": "Un programa facil de utilizar para tus proyectos e integraciones para tus elementos. Esta creado en Python con YOLO V8 para la deteccion de objetos y mostrar resultados en una pagina web local.",
+    "img": "./src/assets/proyects/Proyecto IA Detección (Objetos).png",
+    "web":"https://github.com/VMASPAD/ObjectDetection/tree/main",
+    "type": "Python"
+  },
+  {
+    "id": 13,
+    "title": "Proyecto IA Detección (Pose)",
+    "description": "Una IA para detectar movimientos de personas o individuos, esta creado con Python y YOLO V8",
+    "img": "./src/assets/proyects/Proyecto IA Detección (Pose).png",
+    "web":"https://github.com/VMASPAD/ViewPose",
+    "type": "Python"
+  },
+  {
+    "id": 14,
+    "title": "Proyecto TargMaths",
+    "description": "Una aplicacion para calcular funciones de todas las areas, poder ver sus caracterizticas y su teoria.",
+    "img": "./src/assets/proyects/Proyecto TargMaths.png",
+    "web":"https://play.google.com/store/apps/details?id=ta.app.targmaths",
+    "type": "Flutter Dart"
+  }
+  ,
+  {
+    "id": 15,
+    "title": "Create your Task",
+    "description": "Crea tus listas de recuerdos de la forma mas facil.",
+    "img": "./src/assets/proyects/CreateTask.png",
+    "web":"https://create-your-task.vercel.app/",
+    "type": "React JavaScript"
+  }
+  ,
+  {
+    "id": 16,
+    "title": "Colors",
+    "description": "Crea tus paletas gratuitas y exportalas en PDF.",
+    "img": "./src/assets/proyects/ColorsApp.png",
+    "web":"https://github.com/VMASPAD/colorApp",
+    "type": "React JavaScript ElectronJS"
+  },
+  {
+    "id": 17,
+    "title": "CodeCapture",
+    "description": "Saca Captura a tus codigos y compartelos!.",
+    "img": "./src/assets/proyects/CodeCapture.png",
+    "web":"https://github.com/VMASPAD/codeCapture",
+    "type": "React TypeScript NextJS"
+  },
+  {
+    "id": 18,
+    "title": "Gestor Inventory",
+    "description": "Gestiona tu inventario de la forma mas facil posible.",
+    "img": "./src/assets/proyects/GestorInventory.png",
+    "web":"https://github.com/VMASPAD/gestorInventory",
+    "type": "React JavaScript ElectronJS"
+  },
+  {
+    "id": 19,
+    "title": "NPM Packages",
+    "description": "Prueba mis librerias para simplificar tus procesos",
+    "img": "./src/assets/proyects/Npm.png",
+    "web":"https://www.npmjs.com/~aspad89",
+    "type": "React JavaScript ElectronJS"
+  },
+  {
+    "id": 20,
+    "title": "DrawYourIdeas",
+    "description": "Transforma tus ideas o describelas de la forma mas facil",
+    "img": "./src/assets/proyects/DrawYourIdeas.jpg",
+    "web":"https://github.com/VMASPAD/drawyourideas",
+    "type": "React TypeScript Vite"
+  },
+  {
+    "id": 21,
+    "title": "Desing to html",
+    "description": "Convierte tu diseño a html en figma.",
+    "img": "./src/assets/proyects/figma thumbail.jpg",
+    "web":"https://www.figma.com/community/plugin/1346649634437958749",
+    "type": "Figma TypeScript"
+  },
+  {
+    "id": 22,
+    "title": "PortalExec",
+    "description": "Tu aplicacion para guardar los acceso directo sin tener que buscarlos!",
+    "img": "./src/assets/proyects/PortalExec.jpg",
+    "web":"https://github.com/VMASPAD/portalExec",
+    "type": "C# WinUI .NET"
+  },
+  {
+    "id": 23,
+    "title": "Calculadora, Ley de OHM",
+    "description": "Calcula la ley de OHM de diferentes formas o convierte tus valores en diferentes tipos",
+    "img": "./src/assets/proyects/OHM.png",
+    "web":"https://play.google.com/store/apps/details?id=com.targapps.ohm&hl=es",
+    "type": "TypeScript React Native"
+  }
+]}
